@@ -1,0 +1,148 @@
+{
+    "events": [
+      {
+        "id": "1",
+        "name": "Throwback Thursdays with DJ Manny Duke",
+        "slug": "throwback-thursdays-with-dj-manny-duke",
+        "venue": "Horizon Club",
+        "address": "919 3rd Ave New York, New York(NY), 10022",
+        "performers": "DJ Manny Duke",
+        "date": "June 09, 2021",
+        "time": "10:00 PM EST",
+        "description": "Featuring deep cuts, party anthems and remixes nostalgic songs from two of the best decades of music with the very best music from the 90's and 2000's",
+        "image": "/images/sample/event1.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Boom Dance Festival Experience",
+        "slug": "boom-dance-festival-experience",
+        "venue": "Blackjacks",
+        "address": "966 Lexington Ave New York, New York(NY), 10021",
+        "performers": "DJ LUCK & MC NEAT, NICKY BLACKMARKET, DJ NICKY BLACKMARKET, RATPACK",
+        "date": "June 2, 2021",
+        "time": "8:00 PM EST",
+        "description": "It's looking more and more like we will be seeing events return in the summer! To celebrate this we are arranging a festival experience to say good bye to lock down! We will also be celebrating the fact Zoom Dance is one year old!",
+        "image": "/images/sample/event2.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Encore Night Boat Party",
+        "slug": "encore-night-boat-party",
+        "venue": "Encore",
+        "address": "675 Water St New York, New York(NY), 10002",
+        "performers": "Bad Boy Bill",
+        "date": "June 11, 2021",
+        "time": "7:00 PM EST",
+        "description": "Who is ready to party? I mean in the middle of the water, a boat with good music and drinks. If thats you then you have made it to the right place.",
+        "image": "/images/sample/event3.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Jam Concert Live",
+        "slug": "jam-concert-live",
+        "venue": "Club Ozone",
+        "address": "70 W 115th St New York, New York(NY), 10026",
+        "performers": "DJ RNB",
+        "date": "June 20, 2021",
+        "time": "10:00 PM EST",
+        "description": "The most diverse dj on the east coast, DJ RNB team up once again to bring you the next installment in the high energy, Jam Concert Live series!",
+        "image": "/images/sample/event4.jpg"
+      },
+      {
+        "id": "5",
+        "name": "UnMute Rock Festival",
+        "slug": "unmute-rock-festival",
+        "venue": "Studio 54",
+        "address": "55 La Salle St #12K New York, New York(NY), 10027",
+        "performers": "Big Wednesday, Black Pyre, Calling Apollo",
+        "date": "June 30, 2021",
+        "time": "8:00 PM EST",
+        "description": "With bands from around the UK ready to send the roof into orbit, get ready for the loudest Welsh festival: the inaugural UnMute 2021.",
+        "image": "/images/sample/event5.jpg"
+      },
+      {
+        "id": "6",
+        "name": "Soul Kitchen Party",
+        "slug": "soul-kitchen-party",
+        "venue": "Onyx Club",
+        "address": "60 Gramercy Park N #2 New York, New York(NY), 10010",
+        "performers": "A-Trak, Nightmares on Wax, Rakim, Jay Electronica",
+        "date": "July 2, 2021",
+        "time": "8:00 PM EST",
+        "description": "Dope party which features Hip Hop legends, emerging artists and world-class turntablists",
+        "image": "/images/sample/event6.jpg"
+      },
+      {
+        "id": "7",
+        "name": "Mystere By Cirque Du Soleil",
+        "slug": "mystere-by-cirque-du-soleil",
+        "venue": "Treasure Island – TI Hotel & Casino, a Radisson Hotel",
+        "address": "3300 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "performers": "International cast of 67 Artists",
+        "date": "August 1, 2021",
+        "time": "7:00 PM CST",
+        "description": "Mystère by Cirque du Soleil provides a complete spectrum of awe-inducing entertainment with colorful sets, imaginative costumes and highly-skilled performers.",
+        "image": "/images/sample/event7.jpg"
+      },
+      {
+        "id": "8",
+        "name": "O By Cirque Du Soleil",
+        "slug": "o-by-cirque-du-soleil",
+        "venue": "Bellagio",
+        "address": "3600 S Las Vegas BlvdLas Vegas, NV 89109",
+        "performers": "Cirque du Soleil",
+        "date": "August 4, 2021",
+        "time": "9:30 PM CST",
+        "description": "O by Cirque du Soleil is an whimsical and visually stunning show that transports audiences into a fantastical world of wonderment and awe with the use stunning acrobatics surrounded by air, fire and, most prominently, water.",
+        "image": "/images/sample/event8.jpg"
+      },
+      {
+        "id": "9",
+        "name": "Criss Angel Mindfreak at Planet Hollywood",
+        "slug": "criss-angel-mindfreak-at-planet-hollywood",
+        "venue": "Criss Angel Theater, Planet Hollywood",
+        "address": "3667 S Las Vegas BlvdLas Vegas, NV 89109",
+        "performers": "Criss Angel",
+        "date": "August 5, 2021",
+        "time": "7:00 PM CST",
+        "description": "Be prepared to have your mind freaked by illusionist Criss Angel.",
+        "image": "/images/sample/event9.jpg"
+      },
+      {
+        "id": "10",
+        "name": "Blue Man Group",
+        "slug": "blue-man-group",
+        "venue": "Blue Man Theater, Luxor",
+        "address": "3900 S Las Vegas Blvd, Las Vegas, NV 89119",
+        "performers": "Chris Wink, Phil Stanton, Matt Goldman",
+        "date": "August 6, 2021",
+        "time": "5:00 PM CST",
+        "description": "The avant-garde Blue Man Group combines theatrics, art, music and science to create an interactive, wild and percussion-driven experience full of humor and energy.",
+        "image": "/images/sample/event10.jpg"
+      },
+      {
+        "id": "11",
+        "name": "Jabbawockeez",
+        "slug": "jabbawockeez",
+        "venue": "Jabbawockeez Theater, MGM Grand",
+        "address": "3799 S Las Vegas BlvdLas Vegas, NV 89109",
+        "performers": "Kevin 'Kb' Brewer, Joe 'Punkee' Larot, Jeff 'Phi' Nguyen, Rynan 'Kid Rainen' Paguio",
+        "date": "August 8, 2021",
+        "time": "7:00 PM CST",
+        "description": "World famous dance crew Jabbawockeez presents an audio-visual story of inspiration brought to life through the group's signature movements and sound.",
+        "image": "/images/sample/event11.jpg"
+      },
+      {
+        "id": "12",
+        "name": "Tournment of Kings",
+        "slug": "tournment-of-kings",
+        "venue": "King Arthur's Arena, Excalibur",
+        "address": "3850 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "performers": "Kevin 'Kb' Brewer, Joe 'Punkee' Larot, Jeff 'Phi' Nguyen, Rynan 'Kid Rainen' Paguio",
+        "date": "August 9, 2021",
+        "time": "6:00 PM CST",
+        "description": "The medieval-themed Tournament of Kings Dinner & Show combines arena-style entertainment like jousting and sword fighting with a bacchanalian feast befitting a king.",
+        "image": "/images/sample/event12.jpg"
+      }
+    ]
+  }

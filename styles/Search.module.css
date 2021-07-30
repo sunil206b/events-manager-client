@@ -1,0 +1,20 @@
+.search {
+  text-align: center;
+}
+
+.search input {
+  width: 250px;
+  height: 35px;
+  padding: 5px;
+  border: 1px #777 solid;
+  border-radius: 5px;
+}
+
+.fa_custom {
+  color: red;
+  font-size: 1em;
+  height: 35px;
+  padding: 5px;
+  border: 1px #777 solid;
+  border-radius: 5px;
+}
